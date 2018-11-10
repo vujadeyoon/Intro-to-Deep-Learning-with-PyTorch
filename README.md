@@ -1,4 +1,4 @@
-# Intro-to-Deep-Learning-with-PyTorch
+# Intro to Deep Learning with PyTorch
 Intro to Deep Learning with PyTorch from FAIR in Udacity (PyTorch Scholarship Challenge)
 
 ## Reference <a name="reference"></a>
